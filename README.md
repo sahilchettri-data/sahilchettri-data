@@ -13,7 +13,7 @@ I am a professional with **2+ years of experience** in Finance and Operations, c
 ---
 
 ### 🚀 Featured Project
-**[ESG Sector Analysis & Carbon Visualization](link-to-your-esg-repo)**
+**[ESG Sector Analysis & Carbon Visualization](https://github.com/sahilchettri-data/esg_data_analysis)**
 *Analyzed ESG scores and carbon emissions for 15 global firms across Energy, Tech, and Finance sectors using Pandas and Seaborn.*
 
 ---
